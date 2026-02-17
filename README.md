@@ -1,16 +1,25 @@
-## Hi there 👋
+<!-- Profile README: andrenogrib -->
 
-<!--
-**andrenogrib/andrenogrib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td valign="top">
+      <h1>André Nogueira</h1>
 
-Here are some ideas to get you started:
+      <p>
+        I build small web tools as a hobby — focused on live events workflows:
+        lighting, LED walls, signal flow, checklists, and technical planning.
+      </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      <p>
+        <strong>Learning:</strong> TypeScript, React/Next.js, APIs, databases.
+        <br/>
+        <strong>Website:</strong> https://www.stagerig.com.br
+      </p>
+    </td>
+
+    <td width="360" align="center" valign="top">
+      <!-- Optional: add a clean banner image to /assets/banner.png -->
+      <img src="assets/banner.png" width="340" alt="banner"/>
+    </td>
+  </tr>
+</table>
