@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/neon-vibes.svg" alt="Neon cyan coding banner" width="920" />
+  <img src="./assets/neon-vibes-python.svg" alt="Neon cyan Python coding banner" width="920" />
 </p>
 
 <p align="center">
