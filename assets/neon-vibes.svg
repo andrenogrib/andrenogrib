@@ -1,6 +1,6 @@
 <svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Neon cyan coding banner</title>
-  <desc id="desc">A terminal inspired neon cyan banner with the phrase Games, Cute Anime Girls, and Coding in my free time.</desc>
+  <title id="title">Neon cyan Python coding banner</title>
+  <desc id="desc">A terminal inspired neon cyan banner with Python code about games, cute anime girls, and coding in free time.</desc>
   <defs>
     <linearGradient id="bg" x1="40" y1="30" x2="1160" y2="390" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#030712" />
@@ -54,16 +54,16 @@
 
   <g filter="url(#glow)" font-family="'JetBrains Mono', 'Fira Code', monospace" fill="url(#text)">
     <text x="92" y="144" font-size="46" font-weight="700" letter-spacing="0.4">
-      export const Welcome = () =&gt; {
+      def welcome():
     </text>
     <text x="92" y="222" font-size="31" font-weight="600" letter-spacing="0.3">
-      const vibe = "Games, Cute Anime Girls"
+      vibe = "Games, Cute Anime Girls"
     </text>
     <text x="92" y="276" font-size="31" font-weight="600" letter-spacing="0.3">
-      + " &amp; Coding in my free time.";
+      return f"{vibe} &amp; Coding in my free time."
     </text>
     <text x="92" y="340" font-size="22" font-weight="500" fill="#9EEAF9">
-      return lateNightBuilds();
+      print(welcome())
     </text>
   </g>
 

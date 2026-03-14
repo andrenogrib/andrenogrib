@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/TJmObykPPPcAAAAM/marin-marin-kitagawa.gif" alt="Marin Kitagawa GIF" width="320" />
+  <img src="https://media1.tenor.com/m/oyyUc1996BkAAAAC/chibi-marin-marin-kitagawa.gif" alt="Chibi Marin Kitagawa GIF" width="320" />
 </p>
 
 <p align="center">
