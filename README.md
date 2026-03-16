@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  side quests in TypeScript, React, Next.js, and whatever feels fun to build next.
+  whatever feels fun to build next.
 </p>
 
 <p align="center">
