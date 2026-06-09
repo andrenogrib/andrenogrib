@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-  <a href="https://slicemap.stagerig.com.br">slicemap</a>
+  <a href="https://slicemap.stagerig.com.br">slicemap</a> — a pixel mapping generator for LED screens
 </p>
