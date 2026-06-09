@@ -12,7 +12,7 @@
 
 ---
 
-<h3 align="center">✨ Fun Projects</h3>
+<h3 align="center">fun projects</h3>
 
 <p align="center">
   <a href="https://dontpad.stagerig.com.br">dontpad</a> — a simple shared notepad
