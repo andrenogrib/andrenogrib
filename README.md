@@ -9,3 +9,11 @@
 <p align="center">
   <a href="https://www.stagerig.com.br">stagerig.com.br</a>
 </p>
+
+---
+
+<h3 align="center">✨ Fun Projects</h3>
+
+<p align="center">
+  <a href="https://dontpad.stagerig.com.br">dontpad</a> — a simple shared notepad
+</p>
