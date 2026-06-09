@@ -17,3 +17,7 @@
 <p align="center">
   <a href="https://dontpad.stagerig.com.br">dontpad</a> — a simple shared notepad
 </p>
+
+<p align="center">
+  <a href="https://slicemap.stagerig.com.br">slicemap</a>
+</p>
