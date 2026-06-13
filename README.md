@@ -15,9 +15,13 @@
 <h3 align="center">fun projects</h3>
 
 <p align="center">
-  <a href="https://dontpad.stagerig.com.br">dontpad</a> — a simple shared notepad
+  <a href="https://stagemonitor.stagerig.com.br">stage monitor</a> — a real-time monitoring dashboard for live stage setups
 </p>
 
 <p align="center">
   <a href="https://slicemap.stagerig.com.br">slicemap</a> — a pixel mapping generator for LED screens
+</p>
+
+<p align="center">
+  <a href="https://dontpad.stagerig.com.br">dontpad</a> — a simple shared notepad
 </p>
